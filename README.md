@@ -1,3 +1,5 @@
+[![R-CMD-check](https://github.com/alex-konovalov/tempConverter/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/alex-konovalov/tempConverter/actions/workflows/check-standard.yaml)
+
 # tempConverter
 
 This is a toy R package to practice GitHub actions and other things.
