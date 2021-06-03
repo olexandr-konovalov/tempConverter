@@ -1,13 +1,9 @@
 Package: tempConverter
-Title: Converts temperatures
+Title: Temperature Converter
 Suggests: testthat
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: Alexander Konovalov <alexander.konovalov@st-andrews.ac.uk> 
+Author: Alexander Konovalov <alexander.konovalov@st-andrews.ac.uk>, Laura Marshall <lhm@st-and.ac.uk>
 Description: Converts temperatures between different measures.
 License: GPL (>=2)
 Encoding: UTF-8
