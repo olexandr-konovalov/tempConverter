@@ -1,4 +1,5 @@
 [![R-CMD-check](https://github.com/alex-konovalov/tempConverter/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/alex-konovalov/tempConverter/actions/workflows/check-standard.yaml)
+[![Codecov test coverage](https://codecov.io/gh/alex-konovalov/tempConverter/branch/master/graph/badge.svg)](https://codecov.io/gh/alex-konovalov/tempConverter?branch=master)
 
 # tempConverter
 
