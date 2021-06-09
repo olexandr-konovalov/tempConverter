@@ -1,9 +1,11 @@
 Package: tempConverter
 Title: Temperature Converter
-Suggests: testthat
+Suggests: testthat,
+          covr
 Version: 0.0.0.9000
-Maintainer: Alexander Konovalov <alexander.konovalov@st-andrews.ac.uk> 
-Author: Alexander Konovalov <alexander.konovalov@st-andrews.ac.uk>, Laura Marshall <lhm@st-and.ac.uk>
+Authors@R: c(
+  person("Alexander", "Konovalov", email = "alexander.konovalov@st-andrews.ac.uk", role = c("aut", "cre")),
+  person("Laura", "Marshall", email = "lhm@st-andrews.ac.uk", role = "ctb"))
 Description: Converts temperatures between different measures.
 License: GPL (>=2)
 Encoding: UTF-8
